@@ -27,7 +27,7 @@ const App = () => {
     { title: "Lake Eufaula - Eufaula", description: "When it comes to sunsets, Lake Eufaula reigns supreme.", 
       link: "https://maps.app.goo.gl/riYMxe7qBaPtW8RU8",
       image: "https://media-cdn.tripadvisor.com/media/photo-s/01/93/7e/95/a-crane-ushers-out-the.jpg" },
-    { title: "Mayo Penthouse Bar - Tulsa", description: "", 
+    { title: "Mayo Penthouse Bar - Tulsa", description: "A hot spot for sunset watching since the 1920s, the Mayo Penthouse Bar on top of the historic Mayo Hotel boasts spectacular city views that look best at twilight.", 
       link: "https://maps.app.goo.gl/yRG9WXB6RQggxsTr5", 
       image: "https://d1pk12b7bb81je.cloudfront.net/thumbor/sJHLD8TicOUel9RRtbzZkeGmI6E=/full-fit-in/800x800/https://d1pk12b7bb81je.cloudfront.net/okdataengine/appmedia/images/106/106646/penthouse%20view.jpg" },
     { title: "Oklahoma River Cruises – Oklahoma City", description: "Enjoy a sunset cruise on the Oklahoma River.", 
@@ -42,6 +42,12 @@ const App = () => {
     { title: "Mt. Scott - Medicine Park", description: "A stunning sunset from the top of Mount Scott! There's no shortage of breathtaking views at the Wichita Mountains Wildlife Refuge", 
       link: "https://maps.app.goo.gl/HN3qUdZckUYLKkZr5", 
       image: "https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/hope-and-heart-sunset-at-summit-of-mount-scott-in-oklahoma-southern-plains-photography.jpg" },
+      { title: "Arkansas River - Tulsa", description: "The Arkansas River is a great place to catch a sunset in Tulsa.",
+      link: "https://maps.app.goo.gl/WoChy9NF8kMr3B4D7",
+      image: "https://images.fineartamerica.com/images-medium-large-5/sunset-at-cooks-landing-arkansas-river-jason-politte.jpg"
+      }
+      
+
   ];
   return (
     <div className="App">
